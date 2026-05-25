@@ -1,0 +1,3 @@
+Repositorio: un repositorio es un cofre que guarda todas las versiones de tu proyecto, como si tuvieras una máquina del tiempo para tu código.
+Commit: Un commit es una foto de tu proyecto en un momento especial. Con esas fotos, puedes viajar al pasado si algo no sale bien.
+Push:  El push permite resgistrar los cambios compartidos que se hacen en un proyecto. Lo cual permité compartir en la nube los cambios que se han realizado durante el tiempo.  
