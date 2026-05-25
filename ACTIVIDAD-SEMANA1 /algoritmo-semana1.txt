@@ -1,0 +1,7 @@
+PRGUNTA: 5 
+1.Buscar la información
+2.Revisar la fuente 
+3.Confirmas la noticia 
+4.Verificar la fecha
+5.Analizar la información
+6.Compartir la información
