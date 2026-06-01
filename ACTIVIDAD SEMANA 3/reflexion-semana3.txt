@@ -1,1 +1,4 @@
-Mantener un registro de cambios con Git es importante porque te permite saber quién hizo cada modificación, cuándo y por qué, como una bitácora del proyecto. Si algo sale mal, puedes volver fácilmente a una versión anterior que sí funcionaba. Ayuda a encontrar quién introdujo un error y a automatizar tareas como pruebas o despliegues. 
+Mantener un registro de cambios con Git es importante porque te permite saber quién hizo 
+cada modificación, cuándo y por qué, como una bitácora del proyecto. Si algo sale mal, 
+puedes volver fácilmente a una versión anterior que sí funcionaba. 
+Ayuda a encontrar quién introdujo un error y a automatizar tareas como pruebas o despliegues. 

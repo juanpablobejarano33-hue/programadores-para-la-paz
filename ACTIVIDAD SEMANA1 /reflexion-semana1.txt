@@ -1,2 +1,10 @@
 PREGUNTA 4:  
-podemos pensar internet como una gran plaza pública donde todas las personas opinan, comparten noticias, fotos o ideas.  El uso responsable de la información sinfica que, cuando publicas algo, verifica que sea cierto, respeta la privacidad de otros y no difundas rumores o datos falsos. Ahora, GIT permite que muchas personas trabajen en un mismo proyecto sin tocarse unos a otros, guardo un historial de cambios. Esto fomenta la transparencia, el orden y la responsabilidad compartida. Ser responsable con la información en internet es como ser honesto en una discusión ciudadan, y Git es una forma práctica de organizar el trabajo en equipo con la misma lógica: respeto, confianza, registro y colaboración ordenada.  
+podemos pensar internet como una gran plaza pública donde todas las personas opinan, 
+comparten noticias, fotos o ideas.  El uso responsable de la información sinfica que, 
+cuando publicas algo, verifica que sea cierto, respeta la privacidad de otros y no difundas 
+rumores o datos falsos. Ahora, GIT permite que muchas personas trabajen en un mismo proyecto
+sin tocarse unos a otros, guardo un historial de cambios. Esto fomenta la transparencia, 
+el orden y la responsabilidad compartida. 
+Ser responsable con la información en internet es como ser honesto en una discusión ciudadan, 
+y Git es una forma práctica de organizar el trabajo en equipo con la misma lógica: respeto, 
+confianza, registro y colaboración ordenada.  
